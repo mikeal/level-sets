@@ -8,8 +8,8 @@ Buckets of unique keys for level.
 Usage
 =====
 
-```
-var sets = require('./')
+```javascript
+var sets = require('level-sets')
   , async = require('async')
   , assert = require('assert')
   ;
