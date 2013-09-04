@@ -1,0 +1,35 @@
+{
+  "name": "level-sets",
+  "version": "0.0.0",
+  "description": "Buckets of unique keys for level.",
+  "main": "index.js",
+  "dependencies": {
+    "byteslice": "~0.2.0",
+    "levelup": "~0.15.0"
+  },
+  "devDependencies": {
+    "async": "~0.2.9",
+    "cleanup": "~0.3.0",
+    "leveldown": "~0.8.2",
+    "okdone": "~0.3.0",
+    "rimraf": "~2.2.2"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikeal/level-sets.git"
+  },
+  "keywords": [
+    "level",
+    "set",
+    "sets",
+    "leveldb"
+  ],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/mikeal/level-sets/issues"
+  }
+}
