@@ -5,14 +5,14 @@
   "main": "index.js",
   "dependencies": {
     "byteslice": "~0.2.0",
-    "levelup": "~0.15.0"
+    "levelup": "~1.3.8"
   },
   "devDependencies": {
-    "async": "~0.2.9",
+    "async": "~2.5.0",
     "cleanup": "~0.3.0",
-    "leveldown": "~0.8.2",
+    "leveldown": "~1.7.2",
     "okdone": "~0.3.0",
-    "rimraf": "~2.2.2"
+    "rimraf": "~2.6.1"
   },
   "scripts": {
     "test": "node test.js"
