@@ -1,6 +1,8 @@
 level-sets
 ==========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mikeal/level-sets.svg)](https://greenkeeper.io/)
+
 Buckets of unique keys for level.
 
 `npm install level-sets`
